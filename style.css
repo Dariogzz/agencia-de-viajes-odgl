@@ -7,20 +7,20 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #4b3b2b; 
 }
 
 .header {
     display: flex;
     align-items: center;
     padding: 20px;
-    background-color: #f8f9fa;
+    background-color: #f3e6d8; 
 }
 
 .panoramic-image {
     width: 60%;
     height: 200px;
-    background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+    background: linear-gradient(45deg, #d96c06, #b44a00, #8c3700, #c28e48); 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,7 +37,7 @@ body {
 .logo {
     width: 150px;
     height: 80px;
-    background-color: #2c3e50;
+    background-color: #6e4a28; 
     color: white;
     display: flex;
     align-items: center;
@@ -47,13 +47,13 @@ body {
 }
 
 .slogan {
-    color: #007bff;
+    color: #b35c00; 
     font-size: 24px;
     font-weight: bold;
 }
 
 .countries-bar {
-    background-color: #28a745;
+    background-color: #a45a00; 
     color: white;
     text-align: center;
     padding: 15px;
@@ -62,7 +62,7 @@ body {
 
 .client-data {
     padding: 20px;
-    background-color: #e9ecef;
+    background-color: #f9f1e7; 
 }
 
 .client-row {
@@ -80,12 +80,13 @@ body {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
+    color: #6e4a28;
 }
 
 .client-field input {
     width: 100%;
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid #c9b89e; 
     border-radius: 4px;
 }
 
@@ -99,14 +100,14 @@ body {
 
 .form-section {
     flex: 1;
-    border: 2px solid #dee2e6;
+    border: 2px solid #c9b89e;
     border-radius: 8px;
     padding: 20px;
-    background-color: #f8f9fa;
+    background-color: #fff7e6; 
 }
 
 .section-title {
-    color: #007bff;
+    color: #b35c00;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
@@ -122,6 +123,7 @@ body {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
+    color: #6e4a28;
 }
 
 .radio-group {
@@ -133,6 +135,7 @@ body {
     align-items: center;
     margin-bottom: 8px;
     font-weight: normal;
+    color: #4b3b2b;
 }
 
 .radio-group input[type="radio"] {
@@ -144,6 +147,7 @@ body {
     align-items: center;
     margin-bottom: 8px;
     font-weight: normal;
+    color: #4b3b2b;
 }
 
 .checkbox-group input[type="checkbox"] {
@@ -153,12 +157,12 @@ body {
 select, input[type="number"] {
     width: 100%;
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid #c9b89e;
     border-radius: 4px;
 }
 
 .submit-btn {
-    background-color: #007bff;
+    background-color: #b35c00;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -170,11 +174,11 @@ select, input[type="number"] {
 }
 
 .submit-btn:hover {
-    background-color: #0056b3;
+    background-color: #7a3c00;
 }
 
 .footer {
-    background-color: #2c3e50;
+    background-color: #6e4a28;
     color: white;
     text-align: center;
     padding: 20px;
